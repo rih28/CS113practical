@@ -16,19 +16,42 @@
             <form>
                 <div>
                     <h3>Size:</h3>
-                    <!-- TODO: Something here -->
+                    <label for="small">Small</label>
+                    <input type="radio" name="size" id="small" value="small" checked>
+                    <label for="medium">Medium</label>
+                    <input type="radio" name="size" id="medium" value="medium">
+                    <label for="large">Large</label>
+                    <input type="radio" name="size" id="large" value="large">
                 </div>
                 <div>
                     <h3>Base:</h3>
-                    <!-- TODO: Something here -->
+                    <label for="thin">Thin</label>
+                    <input type="radio" name="base" id="thin" value="thin" checked>
+                    <label for="stuffed">Stuffed crust</label>
+                    <input type="radio" name="base" id="stuffed" value="stuffed">
                 </div>
                 <div>
-                    <h3>Sauce</h3>
-                    <!-- TODO: Something here -->
+                    <h3>Sauce:</h3>
+                    <label for="sauceselect">Sauce:</label>
+                    <select name="sauce" id="sauceselect">
+                        <option value="tomato">Tomato</option>
+                        <option value="bbq">BBQ</option>
+                    </select>
                 </div>
                 <div>
-                    <h3>Toppings</h3>
-                    <!-- TODO: Something here -->
+                    <h3>Toppings:</h3>
+                    <label for="pepperoni">Peperroni</label>
+                    <input type="checkbox" name="toppings" id="pepperoni" value="pepperoni">
+                    <label for="ham">Ham</label>
+                    <input type="checkbox" name="toppings" id="ham" value="ham">
+                    <label for="pineapple">Pineapple</label>
+                    <input type="checkbox" name="toppings" id="pineapple" value="pineapple">
+                    <label for="mushrooms">Mushrooms</label>
+                    <input type="checkbox" name="toppings" id="mushrooms" value="mushrooms">
+                    <label for="peppers">Peppers</label>
+                    <input type="checkbox" name="toppings" id="peppers" value="peppers">
+                    <label for="onions">Onions</label>
+                    <input type="checkbox" name="toppings" id="onions" value="onions">
                 </div>
                 <br>
                 <button type="submit">Order</button>

@@ -13,7 +13,7 @@
         </div>
         <hr>
         <div>
-            <form action="deliveryinfo.php" method="post">
+            <form>
                 <h3>Your details:</h3>
                 <div>
                     <label for="firstname">First name:</label>
@@ -38,6 +38,13 @@
                 <button type="submit">Submit</button>
             </form>
         </div>
+        <hr>
+        <button onClick="goBack()">Back</button>
     </div>
+    <script>
+        function goBack() {
+            window.history.back();
+        }
+    </script>
 </body>
 </html>
