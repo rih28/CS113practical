@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="Cafe">
+    <serverData>
+      <paths name="Cafe">
+        <serverdata>
+          <mappings>
+            <mapping deploy="pizza_2.13_start" local="$PROJECT_DIR$" web="pizza_2.13_start" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
