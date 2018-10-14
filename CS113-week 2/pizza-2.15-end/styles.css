@@ -1,0 +1,76 @@
+body {
+    font-family: 'Anton', sans-serif;
+}
+
+.price {
+    font-size: 20px;
+}
+
+.center {
+    text-align:center;
+}
+
+.w-70 {
+    width:70%;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+.quick-order {
+    font-family: 'Anton', sans-serif;
+    color: white;
+    width: 20%;
+    min-width: 180px;
+    margin: 5px;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    background-color: #222222;
+    border-radius: 10px;
+    box-shadow: 4px 4px #999;
+}
+
+.quick-order:hover {
+    background-color: #333333;
+}
+
+.quick-order:active {
+    background-color: #444444;
+    color: #EEEEEE;
+    box-shadow: 2px 2px #666;
+    transform: translate(2px, 2px);
+}
+
+.ma {
+    margin: auto;
+}
+
+#customise {
+    font-size: 30px;
+}
+
+a:link {
+    text-decoration: none;
+    color: gold;
+}
+
+a:visited {
+    text-decoration: none;
+    color: gold;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: gold;
+}
+
+a:active {
+    text-decoration: underline;
+    color: gold;
+}
+
+.va {
+  vertical-align: top;
+}

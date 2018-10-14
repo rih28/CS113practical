@@ -28,7 +28,8 @@ body {
 }
 
 .quick-order {
-    display: inline-block; margin: auto;
+    display: inline-block;
+    margin: auto;
 }
 
 .ma {
