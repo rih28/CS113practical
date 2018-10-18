@@ -2,7 +2,16 @@ body {
     font-family: 'Anton', sans-serif;
 }
 
+/*body {
+    font-family: 'Anton', sans-serif;
+}*/
+
+/*p {
+    font-size: 20px;
+}*/
+
 .price {
+    font-family: 'Anton', sans-serif;
     font-size: 20px;
 }
 
@@ -10,8 +19,16 @@ body {
     text-align:center;
 }
 
+.w-20 {
+    width: 20%
+}
+
+.w-50 {
+    width: 20%
+}
+
 .w-70 {
-    width:70%;
+    width:70%
 }
 
 h3 {
@@ -25,11 +42,11 @@ h3 {
     min-width: 180px;
     margin: 5px;
     border: none;
-    cursor: pointer;
     outline: none;
+    cursor: pointer;
     background-color: #222222;
     border-radius: 10px;
-    box-shadow: 4px 4px #999;
+    box-shadow: 4px 4px #999999;
 }
 
 .quick-order:hover {
@@ -48,6 +65,7 @@ h3 {
 }
 
 #customise {
+    font-family: 'Anton', sans-serif;
     font-size: 30px;
 }
 

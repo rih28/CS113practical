@@ -11,7 +11,7 @@ body {
 }*/
 
 .price {
-    font-family: 'Anton', sans-serif;
+    /*font-family: 'Anton', sans-serif;*/
     font-size: 20px;
 }
 
@@ -28,8 +28,7 @@ body {
 }
 
 .quick-order {
-    display: inline-block;
-    margin: auto;
+    display: inline-block; margin: auto;
 }
 
 .ma {
@@ -37,7 +36,7 @@ body {
 }
 
 #customise {
-    font-family: 'Anton', sans-serif;
+    /*font-family: 'Anton', sans-serif;*/
     font-size: 30px;
 }
 

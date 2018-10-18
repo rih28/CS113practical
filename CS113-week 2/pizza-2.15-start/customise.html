@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Strathclyde Pizza Place - Customise</title>
+    <link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
     <link href="styles.css" rel="stylesheet">
 </head>
 <body>
@@ -15,69 +16,50 @@
         <hr>
         <div class="center w-70 ma">
             <form>
-                <div class="w-20 quick-order va">
+                <div class="make-own">
                     <h3>Size:</h3>
-                    <div>
+                    <div class="button-wrapper">
+                        <input class="radio-button" type="radio" name="size" id="small" value="small" checked>
                         <label for="small">Small</label>
-                        <input type="radio" name="size" id="small" value="small" checked>
-                    </div>
-                    <div>
+                        <input class="radio-button" type="radio" name="size" id="medium" value="medium">
                         <label for="medium">Medium</label>
-                        <input type="radio" name="size" id="medium" value="medium">
-                    </div>
-                    <div>
+                        <input class="radio-button" type="radio" name="size" id="large" value="large">
                         <label for="large">Large</label>
-                        <input type="radio" name="size" id="large" value="large">
                     </div>
                 </div>
-                <div class="w-20 quick-order va">
+                <div class="make-own">
                     <h3>Base:</h3>
-                    <div>
+                    <div class="button-wrapper">
+                        <input class="radio-button" type="radio" name="base" id="thin" value="thin" checked>
                         <label for="thin">Thin</label>
-                        <input type="radio" name="base" id="thin" value="thin" checked>
-                    </div>
-                    <div>
+                        <input class="radio-button" type="radio" name="base" id="stuffed" value="stuffed">
                         <label for="stuffed">Stuffed crust</label>
-                        <input type="radio" name="base" id="stuffed" value="stuffed">
                     </div>
                 </div>
-                <div class="w-20 quick-order va">
+                <div class="make-own">
                     <h3>Sauce</h3>
                     <div>
-                        <label for="sauceselect">Sauce:</label>
                         <select name="sauce" id="sauceselect">
                             <option value="tomato">Tomato</option>
                             <option value="bbq">BBQ</option>
                         </select>
                     </div>
                 </div>
-                <div class="w-20 quick-order va">
+                <div class="make-own ma w-50">
                     <h3>Toppings</h3>
-                    <div style="align: right;">
-                    <div >
+                    <div class="button-wrapper">
+                        <input class="radio-button" type="checkbox" name="toppings" id="pepperoni" value="pepperoni">
                         <label for="pepperoni">Peperroni</label>
-                        <input type="checkbox" name="toppings" id="pepperoni" value="pepperoni">
-                    </div>
-                    <div>
+                        <input class="radio-button" type="checkbox" name="toppings" id="ham" value="ham">
                         <label for="ham">Ham</label>
-                        <input type="checkbox" name="toppings" id="ham" value="ham">
-                    </div>
-                    <div>
+                        <input class="radio-button" type="checkbox" name="toppings" id="pineapple" value="pineapple">
                         <label for="pineapple">Pineapple</label>
-                        <input type="checkbox" name="toppings" id="pineapple" value="pineapple">
-                    </div>
-                    <div>
+                        <input class="radio-button" type="checkbox" name="toppings" id="mushrooms" value="mushrooms">
                         <label for="mushrooms">Mushrooms</label>
-                        <input type="checkbox" name="toppings" id="mushrooms" value="mushrooms">
-                    </div>
-                    <div>
+                        <input class="radio-button" type="checkbox" name="toppings" id="peppers" value="peppers">
                         <label for="peppers">Peppers</label>
-                        <input type="checkbox" name="toppings" id="peppers" value="peppers">
-                    </div>
-                    <div>
+                        <input class="radio-button" type="checkbox" name="toppings" id="onions" value="onions">
                         <label for="onions">Onions</label>
-                        <input type="checkbox" name="toppings" id="onions" value="onions">
-                    </div>
                     </div>
                 </div>
                 <br>
@@ -88,12 +70,6 @@
         </div>
         <br>
         <hr>
-        <button onClick="goBack()">Back</button>
     </div>
-    <script>
-        function goBack() {
-            window.history.back();
-        }
-    </script>
 </body>
 </html>

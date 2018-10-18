@@ -19,36 +19,35 @@
                 <h3>Cheese and Tomato</h3>
                 <img src="margarita.jpg" alt="some pizza" width="100" height="100"/>
                 <p>13.5''</p>
-                <p class="price"><b>£12.99</b></p>
+                <p class="price">£12.99</p>
             </button>
             <button class="quick-order" onClick="orderPizza('pepperoni')">
                 <h3>Pepperoni</h3>
                 <img src="pepperoni.jpg" alt="some pizza" width="100" height="100"/>
                 <p>13.5''</p>
-                <p class="price"><b>£14.99</b></p>
+                <p class="price">£14.99</p>
             </button>
-            <button class="quick-order" onClick="orderPizza('hamandpineapple')">
+            <button class="quick-order" onClick="orderPizza('ham')">
                 <h3>Ham and Pineapple</h3>
                 <img src="hamandpineapple.jpg" alt="some pizza" width="100" height="100"/>
                 <p>13.5''</p>
-                <p class="price"><b>£13.99</b></p>
+                <p class="price">£13.99</p>
             </button>
-            <button class="quick-order" onClick="orderPizza('veggie')">
+            <button class="quick-order" onClick="orderPizza('veg')">
                 <h3>Vegetarian</h3>
                 <img src="veggie.jpg" alt="some pizza" width="100" height="100"/>
                 <p>13.5''</p>
-                <p class="price"><b>£9.99</b></p>
+                <p class="price">£9.99</p>
             </button>
         </div>
-        <br>
         <hr>
         <div class="center">
             <a id="customise" href="customise.html">make my own</a>
         </div>
     </div>
     <script>
-        function orderPizza(p) {
-            console.log(p + " pizza ordered!");
+        function orderPizza(pizza) {
+            console.log(pizza + " ordered");
         }
 
         var elementByIdExample = document.getElementById("customise");

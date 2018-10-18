@@ -1,7 +1,7 @@
 /*  element  */
-body {
+/*body {
     font-family: sans-serif;
-}
+}*/
 
 /*  .class  */
 .price {
@@ -60,25 +60,25 @@ a:active {
 
 /* Selects all div and all p elements */
 
-div, p {
+/*div, p {
     color: red;
-}
+}*/
 
 
 /* Selects all p elements inside div elements */
 
 
-div p {
+/*div p {
     color: blue;
-}
+}*/
 
 
 /* Selects all p elements where the parent is a div element */
 
 
-div > p {
+/*div > p {
     color: green;
-}
+}*/
 
 
 /* selects all elements with the name attribute equal to size */
