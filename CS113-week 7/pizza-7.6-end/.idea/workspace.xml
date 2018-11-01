@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e34e7617-e789-49fb-8de9-1fb39b05484e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../pizza-6.16-end/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pizza-6.16-end/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pizza-6.16-end/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pizza-6.16-end/.idea/pizza-6.16-end.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pizza-6.16-end/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pizza-6.16-end/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CS113-week 7/pizza-7.12-end/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CS113-week 7/pizza-7.12-end/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CS113-week 7/pizza-7.2-end/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CS113-week 7/pizza-7.2-end/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CS113-week 7/pizza-7.2-end/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CS113-week 7/pizza-7.2-end/.idea/pizza-7.2-end.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CS113-week 7/pizza-7.2-end/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CS113-week 7/pizza-7.2-end/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CS113-week 7/pizza-7.4-end/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CS113-week 7/pizza-7.4-end/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CS113-week 7/pizza-7.4-end/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CS113-week 7/pizza-7.4-end/.idea/pizza-7.4-end.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CS113-week 7/pizza-7.4-end/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CS113-week 7/pizza-7.4-end/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CS113-week 7/pizza-7.4-end/timer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CS113-week 7/pizza-7.6-end/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CS113-week 7/pizza-7.6-end/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CS113-week 7/pizza-7.6-end/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CS113-week 7/pizza-7.6-end/.idea/pizza-7.6-end.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CS113-week 7/pizza-7.6-end/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CS113-week 7/pizza-7.6-end/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CS113-week 7/pizza-7.6-end/test.html" afterDir="false" />
+    <list default="true" id="92b329f6-d023-40e4-89d6-b96de875cf61" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../CS113-week 6/pizza-6.16-end/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CS113-week 6/pizza-6.16-end/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CS113-week 6/pizza-6.16-end/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CS113-week 6/pizza-6.16-end/.idea/pizza-6.16-end.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CS113-week 6/pizza-6.16-end/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CS113-week 6/pizza-6.16-end/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizza-7.12-end/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizza-7.12-end/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizza-7.2-end/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizza-7.2-end/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizza-7.2-end/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizza-7.2-end/.idea/pizza-7.2-end.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizza-7.2-end/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizza-7.2-end/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizza-7.4-end/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizza-7.4-end/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizza-7.4-end/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizza-7.4-end/.idea/pizza-7.4-end.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizza-7.4-end/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizza-7.4-end/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizza-7.4-end/timer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pizza-7.6-end.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../CS113-week 5/pizza-5.15-end/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CS113-week 5/pizza-5.15-end/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../CS113-week 5/pizza-5.6-end/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CS113-week 5/pizza-5.6-end/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pizza-6.2-end/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pizza-6.2-end/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pizza-6.4-end/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pizza-6.4-end/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pizza-6.6-end/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pizza-6.6-end/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CS113-week 6/pizza-6.14-end/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CS113-week 6/pizza-6.14-end/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CS113-week 6/pizza-6.2-end/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CS113-week 6/pizza-6.2-end/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CS113-week 6/pizza-6.4-end/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CS113-week 6/pizza-6.4-end/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CS113-week 6/pizza-6.6-end/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CS113-week 6/pizza-6.6-end/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-1127036853">
+    <session id="-915977423">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.open.time.0" value="1" />
@@ -53,22 +53,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="php" value="2" />
+          <entry key="html" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PHP" value="2" />
+          <entry key="HTML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="php" value="222" />
+          <entry key="html" value="374" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PHP" value="222" />
+          <entry key="HTML" value="374" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -85,15 +85,22 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/delivery.php">
+        <entry file="file://$PROJECT_DIR$/test.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="754">
-              <caret line="63" column="26" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
+            <state relative-caret-position="69">
+              <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -101,7 +108,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/delivery.php" />
+        <option value="$PROJECT_DIR$/test.html" />
       </list>
     </option>
   </component>
@@ -115,7 +122,8 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
+    <option name="x" value="535" />
+    <option name="y" value="57" />
     <option name="width" value="1288" />
     <option name="height" value="687" />
   </component>
@@ -125,26 +133,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="pizza-6.14-end" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pizza-6.14-end" type="462c0819:PsiDirectoryNode" />
+              <item name="pizza-7.6-end" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pizza-7.6-end" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541028428594" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pizza-6.16-end" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541028428689" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pizza-7.12-end" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -165,20 +174,20 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e34e7617-e789-49fb-8de9-1fb39b05484e" name="Default Changelist" comment="" />
-      <created>1540826533498</created>
+      <changelist id="92b329f6-d023-40e4-89d6-b96de875cf61" name="Default Changelist" comment="" />
+      <created>1541026040620</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1540826533498</updated>
-      <workItem from="1540826534666" duration="3222000" />
+      <updated>1541026040620</updated>
+      <workItem from="1541026042046" duration="1977000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3222000" />
+    <option name="totallyTimeSpent" value="1977000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1288" height="687" extended-state="0" />
+    <frame x="535" y="57" width="1288" height="687" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -186,13 +195,13 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3835505" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="File Transfer" visible="true" weight="0.5352622" />
+      <window_info anchor="bottom" id="File Transfer" visible="true" weight="0.32911393" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -219,10 +228,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/delivery.php">
+    <entry file="file://$PROJECT_DIR$/test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="754">
-          <caret line="63" column="26" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
+        <state relative-caret-position="69">
+          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
         </state>
       </provider>
     </entry>

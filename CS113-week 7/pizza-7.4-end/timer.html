@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Timer</title>
+</head>
+<body>
+    <div>
+        <h1 id="firstHeader">Header</h1>
+        <p>Text</p>
+    </div>
+
+    <script>
+        //Delay
+        //setTimeout(f, t)
+        function onLoadDelay() {
+            alert("Hey");
+        }
+
+        window.setTimeout(onLoadDelay, 5000); //Put in body onload=""
+
+        //Repeat
+        //setInterval(f,t)
+        var margin = 0;
+        function moveText() {
+            var firstHeader = document.getElementById("firstHeader");
+            firstHeader.style.marginLeft = margin + "px";
+            margin++;
+        }
+
+        window.setInterval(moveText, 1000);
+
+    </script>
+</body>
+</html>

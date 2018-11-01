@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <div>
+        <h1 id="firstHeader">A header</h1>
+        <p id="para">Some text</p>
+    </div>
+    <div>
+        <button onclick="changeFirstHeader()">Change First Header</button>
+        <button onclick="showHide()">Show|Hide</button>
+    </div>
+    <script>
+        function changeFirstHeader() {
+            var firstHeader = document.getElementById("firstHeader");
+            firstHeader.style.color = "pink";
+        }
+
+        function showHide() {
+            var para = document.getElementById("para");
+            if (para.style.visibility == "hidden") {
+                para.style.visibility = "visible";
+            } else {
+                para.style.visibility = "hidden"
+            }
+        }
+    </script>
+</body>
+</html>

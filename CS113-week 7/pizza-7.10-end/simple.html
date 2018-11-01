@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Simple</title>
+</head>
+<body>
+    <div id="mainDiv">
+        <h1 id="firstHeader">Header</h1>
+        <p id="introParagraph">Some text</p>
+    </div>
+    <div>
+        <button onclick="changeFirstHeader()">Change First Header</button>
+        <button onclick="showHideIntro()">Show/Hide</button>
+        <button onclick="addPara()">Add Paragraph</button>
+    </div>
+    <script>
+        var margin = 0;
+        function moveText() {
+            var firstHeader = document.getElementById("firstHeader");
+            margin += 2;
+            firstHeader.style.marginLeft = margin + "px";
+        }
+
+        function changeFirstHeader() {
+            var firstHeader = document.getElementById("firstHeader");
+            firstHeader.style.color = "red";
+        }
+
+        function showHideIntro() {
+            var introParagraph = document.getElementById("introParagraph");
+            if (introParagraph.style.visibility == "hidden") {
+                introParagraph.style.visibility = "visible";
+            } else {
+                introParagraph.style.visibility = "hidden";
+            }
+        }
+
+        var lineNo = 1;
+        function addPara() {
+            var para = document.createElement("p");
+            var node = document.createTextNode("This is added! " + lineNo);
+            para.appendChild(node);
+
+            var div = document.getElementById("mainDiv");
+            div.appendChild(para);
+
+            lineNo++;
+        }
+    </script>
+</body>
+</html>
