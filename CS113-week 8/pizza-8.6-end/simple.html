@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Simple</title>
+</head>
+<body>
+    <div id="mainDiv">
+        <h1 id="firstHeader">Header</h1>
+        <p id="introParagraph">Some text</p>
+    </div>
+    <div>
+
+    </div>
+    <script>
+        //We have dealt with
+        //onclick, onload, onsubmit and onchange
+        //Here we are going to look at onresize
+
+        function onResize(e) {
+            console.log(document.documentElement.clientWidth)
+            document.getElementById("introParagraph").innerHTML = document.documentElement.clientWidth + " x " + document.documentElement.clientHeight;
+        }
+
+        window.addEventListener("resize", onResize)  //no onresize here
+    </script>
+</body>
+</html>
