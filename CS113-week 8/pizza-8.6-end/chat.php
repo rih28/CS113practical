@@ -6,7 +6,7 @@ $chatId = "";
 function getPOSTsafely($conn, $name) {
     if (isset($_POST[$name])) {
         //cross site scripting
-        return $conn->real_escape_string(htmlentities($_POST[$name]));
+        return $conn->real_escape_string(htmlentities($_POST[$name])); //use strip_tags
     } else {
         return "";
     }
@@ -43,18 +43,6 @@ if (!isset($_POST)) {
             //echo "Error: " . $insert . "<br>" . $conn->error;
         }
     }
-
-    //1' OR '1'='1
-    //DROP Table chat
-    //Prepared Statements: https://www.w3schools.com/php/php_mysql_prepared_statements.asp
-
-    /* OWASP recommends
-     * Use of prepared statements
-     * Use of stored procedures
-     * Escaping all user inputs
-     * Minimise privileges assigned to each DB account
-     * Input Validation
-     */
     
     $sql = "SELECT * FROM chat WHERE chatid = '" . $chatId . "'";
     $result = $conn->query($sql);

@@ -39,7 +39,7 @@ if (!isset($_POST)) {
     }
 
     //1' OR '1'='1
-    //DROP Table chat
+    //; DROP Table chat
     //Prepared Statements: https://www.w3schools.com/php/php_mysql_prepared_statements.asp
 
     /* OWASP recommends (Open Web Application Security Project)
@@ -75,8 +75,8 @@ if (!isset($_POST)) {
                         if ($result->num_rows > 0) {
                             while($row = $result->fetch_assoc()) {
                                 echo '<div class="row message-bubble">';
-                                echo '<p class="text-muted">' . $row["chatid"] . '</p>';
-                                echo '<p>' . $row["message"] . '</p>';
+                                echo '<p class="text-muted">' . mysqli_real_escape_string($conn, $row["chatid"]) . '</p>';
+                                echo '<p>' . mysqli_real_escape_string($conn, $row["message"]) . '</p>';
                                 echo '</div>';
                             }
                         }

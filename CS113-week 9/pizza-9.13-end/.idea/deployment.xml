@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="Cafe">
+        <serverdata>
+          <mappings>
+            <mapping deploy="pizza_9.13_end" local="$PROJECT_DIR$" web="/pizza_9.13_end" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
