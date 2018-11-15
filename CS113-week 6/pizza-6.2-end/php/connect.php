@@ -1,10 +1,10 @@
 <?php
 include 'passwordline.php';
 
-$servername = "devweb2018.cis.strath.ac.uk";
-$username = "jrb18175";
-$password = $passwordline;
-$dbname = "jrb18175";
+$servername = "devwebYYYY.cis.strath.ac.uk";
+$username = "STRATH_USER_NAME";
+$password = "PASSWORD_FROM_SYSTEMS_SERVICES";
+$dbname = "STRATH_USER_NAME";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
