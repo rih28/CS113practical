@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4aa4182b-1c3b-41ec-bed3-9fd11496cb1c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../CS113-week 9/pizza-9.13-end/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CS113-week 9/pizza-9.13-end/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CS113-week 9/pizza-9.13-end/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CS113-week 9/pizza-9.13-end/.idea/pizza-9.13-end.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CS113-week 9/pizza-9.13-end/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../CS113-week 9/pizza-9.15-end/.idea/deployment.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../CS113-week 9/pizza-9.15-end/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../CS113-week 9/pizza-9.15-end/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../CS113-week 9/pizza-9.15-end/.idea/pizza-9.15-end.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../CS113-week 9/pizza-9.15-end/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CS113-week 9/pizza-9.15-end/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../CS113-week 9/pizza-9.15-end/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../CS113-week 7/pizza-7.12-end/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CS113-week 7/pizza-7.12-end/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -16,6 +20,8 @@
       <change beforePath="$PROJECT_DIR$/../pizza-8.2-end/chat.php" beforeDir="false" afterPath="$PROJECT_DIR$/../pizza-8.2-end/chat.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pizza-8.6-end/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pizza-8.6-end/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pizza-8.6-end/chat.php" beforeDir="false" afterPath="$PROJECT_DIR$/../pizza-8.6-end/chat.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CS113-week 9/pizza-9.13-end/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CS113-week 9/pizza-9.13-end/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CS113-week 9/pizza-9.15-end/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CS113-week 9/pizza-9.15-end/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +33,7 @@
     <session id="2143520968">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -94,10 +101,10 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="1" />
-    <option name="width" value="1253" />
-    <option name="height" value="1031" />
+    <option name="width" value="835" />
+    <option name="height" value="687" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -157,7 +164,7 @@
     <option name="totallyTimeSpent" value="1949000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="0" width="835" height="687" extended-state="0" />
+    <frame x="1" y="0" width="835" height="687" extended-state="1" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -170,7 +177,7 @@
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="File Transfer" visible="true" weight="0.24909747" />
+      <window_info anchor="bottom" id="File Transfer" visible="true" weight="0.24954791" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
